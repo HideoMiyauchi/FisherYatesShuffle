@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fisher Yates Shuffle</string>
+    <string name="start">START</string>
+    <string name="base_image">Base Image</string>
+    <string name="shuffled_image">Shuffled Image</string>
+    <string name="restored_image">Restored Image</string>
+</resources>
